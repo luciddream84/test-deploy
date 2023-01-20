@@ -1,5 +1,6 @@
 {
   "name": "test-deploy",
+  "homepage": "https://luciddream84.github.io/test-deploy/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
